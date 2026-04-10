@@ -1,1 +1,1 @@
-print("This is the start of new project ")
+print("Enter todo list:")
